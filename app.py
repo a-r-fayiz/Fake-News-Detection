@@ -114,4 +114,4 @@ if st.button("🚀 Analyze Article"):
 
 # ----------------- Footer ------------------ #
 st.markdown("---")
-st.markdown("<p style='text-align: center;'>Made with ❤️ using Streamlit · Model: MultinomialNB + TF-IDF · Detection: Binary Classifier</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center;'>Made with ❤️ using Streamlit · Model: Logistic Regression + TF-IDF · Detection: Binary Classifier</p>", unsafe_allow_html=True)
